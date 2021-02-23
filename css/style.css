@@ -187,3 +187,34 @@ ul.produtos_lista li p {
     margin-bottom: 20px;
 }
 
+/* Portfolio */
+
+.portfolio {
+    width: 100%;
+    background: #000;
+    padding: 40px 0;
+}
+
+
+
+.portfolio .subtitulo {
+    color: var(--amarelo);
+}
+
+.portfolio .subtitulo::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: var(--amarelo);
+    margin: 8px auto;
+}
+
+.portfolio-lista li:last-child {
+    margin-top: 20px;
+}
+
+.portfolio .call p {
+    color: #fff;
+}
+
