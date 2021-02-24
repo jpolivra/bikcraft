@@ -59,6 +59,27 @@ img {
     margin: 8px auto;
 }
 
+.subtitulo-interno {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: .1em;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
+}
+
+.subtitulo-interno::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #000;
+    margin: 8px;
+    margin-left: 0px;
+}
+
 /* Header */
 
 .header {
@@ -91,13 +112,17 @@ img {
     padding: 10px 0;
 }
 
+.header_menu ul li a.menu_ativo {
+    color: #fff;
+}
+
 .header_menu ul li a:hover {
     color: #fff;
 }
 
 /* Introdução */
 
- .introdução {
+ .introducao {
      width: 100%;
      height: 380px;
      background: url("../img/bg.jpg");
@@ -109,7 +134,7 @@ img {
      padding-top: 80px;
  }
 
-.introdução h1 {
+.introducao h1 {
     font-size: 48px;
     font-weight: bold;
     color: white;
@@ -143,6 +168,37 @@ img {
     font-size: 14px;
     letter-spacing: .1em;
 }
+
+/* Introdução Interna*/
+
+.introducao-interna {
+    width: 100%;
+    margin-top: 92px;
+    height: 160px;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+}
+
+.introducao-interna h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.introducao-interna h1::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #fff;
+    margin: 6px auto 14px auto;
+}
+
+
+
+
 
 /* Produtos */
 
