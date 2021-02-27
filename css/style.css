@@ -405,3 +405,23 @@ ul.produtos_lista li p {
     background: #fec63e;
     padding: 20px 0;
 }
+
+/* Javascript */
+
+.js [data-slide]{position:relative}
+.js [data-slide]>*{position:absolute;top:0;opacity:0;pointer-events:none}
+.js [data-slide]>.active{position:relative;opacity:1;transition:opacity .5s;z-index:1;pointer-events:auto}
+
+[data-anime] {
+    opacity: 0;
+}
+
+.js .fadeInDown {
+    transform: translate3d(0, -20px, 0);
+}
+
+.js .anime {
+    opacity: 1;
+    transform: none;
+    transition: opacity 800ms, transform 800ms;
+}
