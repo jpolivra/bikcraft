@@ -16,6 +16,7 @@ p {
 
 img {
     display: block;
+    max-width: 100%;
 } 
 
 
@@ -208,6 +209,10 @@ img {
 .produtos_lista li {
     background-color: var(--amarelo);
     text-align: center;
+}
+
+.produtos_lista li img {
+    margin: 0 auto;
 }
 
 ul.produtos_lista li h3 {
