@@ -10,25 +10,25 @@ Sabe aquela pulguinha atrás da cabeça que você fica quando começa a estudar 
 
 ### Grid Layout com Container .
 Com a atualização do CSS para sua versão 3, hoje em dia é muito comum a utilização do Grid Display ou Flexbox para a confecção do design da página, porém nesse projeto foi a utilização de uma container com uma width já definida em um arquivo CSS implementado antes já com as divisões presentes.
-<img src=""/>
+<img src="https://raw.githubusercontent.com/thxjao/bikcraft/master/img-layout/img-2.png"/>
 
 ---
 
 ### Animações em CSS.
 Utilizando a camada de estilo foi possível fazer uma animação de FadeInDown, usando as propriedades Opacity e translate3d.
-<img src=""/>
+<img src="https://raw.githubusercontent.com/thxjao/bikcraft/master/img-layout/img-layout-1.gif"/>
 
 ---
 
 ### Criação de formulário HTML com implementação de código Back-End em PHP para envio de e-mail.
 A partir da construção do layout foi necessitado a criação de um formulário capaz de fazer uma solicitação no back-end para o envio de e-mail, através da configuração de um código Back-End template já pronto, foi possível criar uma conexão com as ID criadas no front end dentro do código HTML.
-<img src=""/>
+<img src="https://raw.githubusercontent.com/thxjao/bikcraft/master/img-layout/img-3.png"/>
 
 ---
 
 ### Utilização de Plugin Javascript para criação de Slides e Animações.
 Já no final do projeto foi consumido um plugin javascript de um repositório no Github para a criação de sliders tanto de quotes (citações) quanto de imagens.
-<img src=""/>
+<img src="https://raw.githubusercontent.com/thxjao/bikcraft/master/img-layout/img-layout-4.gif"/>
 
 
 
