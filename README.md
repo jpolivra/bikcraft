@@ -4,6 +4,6 @@ O projeto BIKCRAFT foi desenvolvido a partir dos estudos feitos na trilha de web
 ---
 
 ## Layout 
-<img src="https://prnt.sc/109l0tb"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/7geFQTw" data-context="false" ><a href="//imgur.com/a/7geFQTw">img-layout-1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
