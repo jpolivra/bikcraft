@@ -4,6 +4,6 @@ O projeto BIKCRAFT foi desenvolvido a partir dos estudos feitos na trilha de web
 ---
 
 ## Layout 
-
+<img src="https://prnt.sc/109l0tb"/>
 
 
