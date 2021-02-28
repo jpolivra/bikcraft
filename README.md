@@ -3,7 +3,6 @@ O projeto BIKCRAFT foi desenvolvido a partir dos estudos feitos na trilha de web
 
 ---
 
-<<<<<<< HEAD
 ## Conhecimentos adquiridos.
 Sabe aquela pulguinha atrás da cabeça que você fica quando começa a estudar o conteúdo de alguém, tipo: será que não é uma total perda de tempo?  Era exatamente isso que eu estava sentindo quando comecei a fazer esse projeto, porém, a gama de conhecimentos adquiridos foram simplesmente algo que levarei por bastante tempo enquanto ainda relevantes no escopo de desenvolvimento web.
 
@@ -31,9 +30,6 @@ A partir da construção do layout foi necessitado a criação de um formulário
 Já no final do projeto foi consumido um plugin javascript de um repositório no Github para a criação de sliders tanto de quotes (citações) quanto de imagens.
 <img src=""/>
 
-=======
-## Layout 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/7geFQTw" data-context="false" ><a href="//imgur.com/a/7geFQTw">img-layout-1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
->>>>>>> 20a155dd17f9d838caa956162f03d26a1eda20ab
+
 
 
